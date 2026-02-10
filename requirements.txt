@@ -1,0 +1,6 @@
+pydantic-ai
+pydantic
+streamlit
+logfire
+python-dotenv
+nest_asyncio
