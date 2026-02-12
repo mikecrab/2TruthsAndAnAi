@@ -4,3 +4,5 @@ streamlit
 logfire
 python-dotenv
 nest_asyncio
+wikipedia==1.4.0
+sentence-transformers==2.2.2
